@@ -5,7 +5,7 @@ We will try to classify the data according to class(Fraud or no fraud) using the
 Also we will try to use DecisionTree and RandomForest models using Pipeline.
 
 Models used: Logistic Regression,<br>
-             Decision Tree,
+             Decision Tree,<br>
              Random Forest,
              
 OverSampling Algorithms used: SMOTE
